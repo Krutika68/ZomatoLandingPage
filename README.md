@@ -1,2 +1,1 @@
-# ZomatoLandingPage
-https://krutikabhere/ZomatoLandingPage//
+# Zomato Landing Page
